@@ -8,10 +8,10 @@ Co-Founder of **Obsidian Luxe Holdings LLC** — a vertically integrated real es
 
 ## What I've Built
 
-**[Obsidian OS](https://app.obsidianluxeholdingsllc.com)** — AI-powered commercial real estate acquisition platform sold to 4 companies. Full-stack SaaS CRM with a power dialer, AI-drafted LOI generation, DocuSign e-signature webhook workflow, call transcription + AI summaries, and a comps engine backed by the ATTOM Property API.
+**[Obsidian OS](https://app.obsidianluxeholdingsllc.com)** _private repo_— AI-powered commercial real estate acquisition platform sold to 4 companies. Full-stack SaaS CRM with a power dialer, AI-drafted LOI generation, DocuSign e-signature webhook workflow, call transcription + AI summaries, and a comps engine backed by the ATTOM Property API.
 
 
-**Pitchline** — Multi-tenant AI sales coaching engine. Every sales call runs through an 8-step pipeline: AssemblyAI transcription → metric extraction → quality gating → Claude Sonnet coaching notes → pgvector Rep DNA embeddings. Four-layer ML architecture including org-specific GPT-4o-mini fine-tuning and a cross-org vertical training pool data flywheel across 8 industries.
+**Pitchline**_private repo_ — Multi-tenant AI sales coaching engine. Every sales call runs through an 8-step pipeline: AssemblyAI transcription → metric extraction → quality gating → Claude Sonnet coaching notes → pgvector Rep DNA embeddings. Four-layer ML architecture including org-specific GPT-4o-mini fine-tuning and a cross-org vertical training pool data flywheel across 8 industries.
 
 ---
 
