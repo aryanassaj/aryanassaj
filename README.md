@@ -1,47 +1,38 @@
 # Arya Nassaj
 
-Computer Science student at the University of Maryland (Minor in Economics) focused on machine learning, systems engineering, and data-driven decision modeling.
+Computer Science student at the University of Maryland (Minor in Economics) building production SaaS products at the intersection of AI, full-stack engineering, and real estate.
 
-I build applied ML models, backend systems, and data pipelines designed for real-world operational environments.
-
----
-
-## Technical Focus
-
-- Machine Learning (Regression, Classification, Recommendation Systems)
-- Data Processing & Feature Engineering
-- Backend & Full-Stack Systems
-- Infrastructure & Networking Systems
-- Quantitative Modeling & Risk Analysis
+Co-Founder of **Obsidian Luxe Holdings LLC** — a vertically integrated real estate firm operating across residential acquisitions, commercial acquisitions, and private lending.
 
 ---
 
-## Current Projects
+## What I've Built
 
-- Real Estate Price Prediction Model (in progress)
-- Investor–Asset Matching Recommendation System
-- Automated Lead Intelligence Pipeline
-- Full-Stack Dealflow Admin Platform
+**[Obsidian OS](https://app.obsidianluxeholdingsllc.com)** — AI-powered commercial real estate acquisition platform sold to 4 companies. Full-stack SaaS CRM with a power dialer, AI-drafted LOI generation, DocuSign e-signature webhook workflow, call transcription + AI summaries, and a comps engine backed by the ATTOM Property API.
+
+
+**Pitchline** — Multi-tenant AI sales coaching engine. Every sales call runs through an 8-step pipeline: AssemblyAI transcription → metric extraction → quality gating → Claude Sonnet coaching notes → pgvector Rep DNA embeddings. Four-layer ML architecture including org-specific GPT-4o-mini fine-tuning and a cross-org vertical training pool data flywheel across 8 industries.
 
 ---
 
 ## Tech Stack
 
-**Languages:**  
-Java, Python, C/C++, Rust, OCaml, JavaScript, SQL, MIPS Assembly  
+**Languages:** Java, Python, C/C++, Rust, OCaml, TypeScript, JavaScript, SQL, MIPS Assembly
 
-**ML & Data:**  
-PyTorch, Pandas, Model Evaluation, Feature Engineering, Data Pipelines  
+**ML & Data:** PyTorch, Pandas, OpenAI Fine-Tuning, pgvector Embeddings, Feature Engineering, Model Evaluation, Data Pipelines
 
-**Backend & Systems:**  
-Node.js, Express, Supabase, MongoDB, REST APIs  
+**Frontend & Backend:** Next.js 14, React, Node.js, Express, Tailwind CSS, WebSockets, REST APIs, Chrome Extension APIs
 
-**Infrastructure:**  
-AWS, Linux, Git, Cisco Networking Equipment  
+**Infrastructure & Data:** Supabase, PostgreSQL, MongoDB, AWS, Docker, Git, Linux, Cisco Networking
+
+**AI & Integrations:** Claude API, Gemini, AssemblyAI, OpenAI API, DocuSign, ATTOM Property API, Stripe, Webhooks
 
 ---
 
-## Connect
+## Currently
 
-LinkedIn: https://www.linkedin.com/in/arya-nassaj-4b3851217  
-Email: workanassaj@gmail.com
+- Scaling Obsidian OS and Pitchline to additional clients
+- B.S. Computer Science @ University of Maryland, College Park (Expected May 2027)
+- Open to SWE internships and research roles in ML, systems, or full-stack
+
+📬 workanassaj@gmail.com
