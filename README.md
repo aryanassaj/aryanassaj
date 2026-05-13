@@ -1,6 +1,6 @@
 # Arya Nassaj
 
-Computer Science student at the University of Maryland (Minor in Economics) building production SaaS products at the intersection of AI, full-stack engineering, and real estate.
+Computer Science student at the University of Maryland (Minor in Economics) building production SaaS products at the intersection of AI, ML/Data Science, full-stack engineering, and business.
 
 Co-Founder of **Obsidian Luxe Holdings LLC** — a vertically integrated real estate firm operating across residential acquisitions, commercial acquisitions, and private lending.
 
